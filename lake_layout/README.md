@@ -1,0 +1,8 @@
+# lake_layout
+
+Flutter layout exercise
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
