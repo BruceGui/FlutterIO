@@ -1,8 +1,6 @@
 
 import 'package:flutter/material.dart';
 
-void main() => runApp(new MyApp());
-
 class TutorialHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
