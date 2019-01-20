@@ -1,15 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'widget/ShoppingListItem.dart';
-import 'widget/ShoppingList.dart';
-
-import 'widget/container.dart';
-import 'widget/rowcolumn.dart';
-import 'widget/images.dart';
-import 'widget/text.dart';
-import 'widget/snackbars.dart';
-import 'widget/tabbar.dart';
+import 'package:flutter_component/component/startup_namer.dart';
 
 void main() => runApp(new MyApp());
 
@@ -18,24 +10,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Shopping App',
-      /*
-        home: new ShoppingList(
-        products: <Product> [
-          new Product(name: 'Eggs'),
-          new Product(name: 'Flour'),
-          new Product(name: 'Chocolate chips'),
-          new Product(name: 'Some Salad')
-        ],
-      ),
-      */
+      title: 'Welcome to Flutter',
       theme: ThemeData(
         brightness: Brightness.light,
         primaryColor: Colors.green,
         accentColor: Colors.cyan[900],
         fontFamily: 'ChelaOne',
       ),
-      home: new TabBarE(),
+      home: RandomWords(),
 
     );
   }
