@@ -9,12 +9,17 @@ First clone the repo
 git clone https://github.com/soragui/FlutterIO/
 ```
 
-then checkout the branch code you want and run it
+Then checkout the branch code you want and run it
 
 ```bash
-git branch -v  # see branch list
 git checkout branch_name # checkout branch
 flutter run # run
 ```
 
-###
+### Current branch List
+
+| Branch | Description |
+|---|:---:|
+|startup_namer| [Here](https://flutter.io/docs/get-started/codelab) |
+|lake_layout|[Here](https://flutter.io/docs/development/ui/layout/tutorial)|
+
