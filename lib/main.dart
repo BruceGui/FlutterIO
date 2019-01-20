@@ -1,6 +1,8 @@
 
 import 'package:flutter/material.dart';
 
+import 'package:flutter_component/component/lake_layout.dart';
+
 void main() => runApp(new MyApp());
 
 class MyApp extends StatelessWidget {
@@ -9,15 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Welcome to Flutter',
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Welcome to Fluter'),
-        ),
-
-        body: Center(
-          child: Text('Hello, Flutter'),
-        ),
-      ),
+      home: LakeLayout(),
 
     );
   }
