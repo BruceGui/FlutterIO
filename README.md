@@ -1,7 +1,8 @@
 # FlutterIO
-Learn Mobile APP SDK Flutter. For the better app development.https://flutter.io
 
-### How to use it
+Learn Mobile APP SDK Flutter. For the better app development.[https://flutter.io](https://flutter.io)
+
+## How to use it
 
 First clone the repo
 
@@ -16,10 +17,10 @@ git checkout branch_name # checkout branch
 flutter run # run
 ```
 
-### Current branch List
+## Current branch List
 
 | Branch | Description |
-|---|:---:|
-|startup_namer| [Here](https://flutter.io/docs/get-started/codelab) |
-|lake_layout|[Here](https://flutter.io/docs/development/ui/layout/tutorial)|
+| :--- | :---: |
+| startup\_namer | [Here](https://flutter.io/docs/get-started/codelab) |
+| lake\_layout | [Here](https://flutter.io/docs/development/ui/layout/tutorial) |
 
