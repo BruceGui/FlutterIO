@@ -1,0 +1,19 @@
+{
+    "root": "docs",
+    "title": "Hacking Flutter",
+    "description": "Flutter 中的乐趣无处不在，让我们一起来探索吧!",
+    "author": "soragui ziwo520@gmail.com",
+    "language": "zh-hans",
+    "links":{
+        "sharing": {
+          "all": null,
+          "facebook": null,
+          "google": null,
+          "twitter": "ziwo520",
+          "weibo": null
+        },
+        "sidebar": {
+          "<div><img height=20 style='position:relative; top:5px; padding-right:5px ' src='https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/favicon.png'/> Hacking Flutter</div>": "https://flutter.dev"
+        }
+      }
+}
